@@ -1,0 +1,71 @@
+# Arquivos de compilação Java
+*.class
+
+# Arquivos de bytecode
+*.jar
+
+# Diretórios de saída de compilação
+/target/
+
+# Arquivos de configuração específicos para IDEs (por exemplo, IntelliJ IDEA)
+.idea/
+
+# Logs e arquivos temporários
+*.log
+*.log.*
+*.tmp
+
+# Arquivos de build do Maven
+/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Arquivos de build do Gradle
+/.gradle/
+/build/
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Diretórios de saída do Eclipse
+bin/
+bin64/
+.metadata/
+*.bak
+
+# Arquivos de configuração do NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Logs do NetBeans
+nbactions.xml
+
+# Arquivos de configuração do Visual Studio Code
+.vscode/
+
+# Diretório do sistema de compilação Apache Ant
+/.ant/
+
+# Diretório do sistema de compilação Gradle
+/.gradle/
+
+# Diretório do sistema de compilação Maven
+/.maven/
+
+# Diretório do sistema de compilação Ivy
+/.ivy/
+
+# Cache do JUnit
+/target/test-classes/
+/test-output/
